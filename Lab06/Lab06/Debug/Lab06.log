@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\dweathers\source\workspaces\cis 308 fall 17\lab06\lab06\main.c(10): warning C4474: 'scanf_s' : too many arguments passed for format string
+  c:\users\dweathers\source\workspaces\cis 308 fall 17\lab06\lab06\main.c(10): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  Lab06.vcxproj -> C:\Users\dweathers\Source\Workspaces\CIS 308 Fall 17\Lab06\Debug\Lab06.exe
+  Lab06.vcxproj -> C:\Users\dweathers\Source\Workspaces\CIS 308 Fall 17\Lab06\Debug\Lab06.pdb (Partial PDB)

@@ -1,0 +1,8 @@
+﻿  Lab05.c
+c:\users\dweathers\source\workspaces\cis 308 fall 17\lab05\lab05\lab05.c(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dweathers\source\workspaces\cis 308 fall 17\lab05\lab05\lab05.c(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dweathers\source\workspaces\cis 308 fall 17\lab05\lab05\lab05.c(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dweathers\source\workspaces\cis 308 fall 17\lab05\lab05\lab05.c(42): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\dweathers\source\workspaces\cis 308 fall 17\lab05\lab05\lab05.c(42): warning C4047: '=': 'person *' differs in levels of indirection from 'int'
+  Lab05.vcxproj -> C:\Users\dweathers\Source\Workspaces\CIS 308 Fall 17\Lab05\Debug\Lab05.exe
+  Lab05.vcxproj -> C:\Users\dweathers\Source\Workspaces\CIS 308 Fall 17\Lab05\Debug\Lab05.pdb (Partial PDB)

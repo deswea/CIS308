@@ -1,0 +1,9 @@
+﻿  Struct.c
+c:\users\dweathers\source\workspaces\cis 308 fall 17\lab04\lab04\struct.c(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dweathers\source\workspaces\cis 308 fall 17\lab04\lab04\struct.c(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dweathers\source\workspaces\cis 308 fall 17\lab04\lab04\struct.c(15): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\dweathers\source\workspaces\cis 308 fall 17\lab04\lab04\struct.c(15): warning C4047: '=': 'student *' differs in levels of indirection from 'int'
+c:\users\dweathers\source\workspaces\cis 308 fall 17\lab04\lab04\struct.c(21): warning C4474: 'scanf_s' : too many arguments passed for format string
+  c:\users\dweathers\source\workspaces\cis 308 fall 17\lab04\lab04\struct.c(21): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  Lab04.vcxproj -> C:\Users\dweathers\Source\Workspaces\CIS 308 Fall 17\Lab04\Debug\Lab04.exe
+  Lab04.vcxproj -> C:\Users\dweathers\Source\Workspaces\CIS 308 Fall 17\Lab04\Debug\Lab04.pdb (Partial PDB)

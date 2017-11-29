@@ -1,0 +1,6 @@
+﻿  person.cpp
+c:\users\dweathers\source\workspaces\cis 308 fall 17\lab07\lab07\person.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+  Generating Code...
+  Lab07.vcxproj -> C:\Users\dweathers\Source\Workspaces\CIS 308 Fall 17\Lab07\Debug\Lab07.exe
+  Lab07.vcxproj -> C:\Users\dweathers\Source\Workspaces\CIS 308 Fall 17\Lab07\Debug\Lab07.pdb (Partial PDB)
