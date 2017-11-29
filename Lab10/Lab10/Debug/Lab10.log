@@ -1,0 +1,8 @@
+﻿  lab10.cpp
+c:\users\dweathers\source\workspaces\cis 308 fall 17\lab10\lab10\lab10.cpp(29): warning C4101: 'i': unreferenced local variable
+c:\users\dweathers\source\workspaces\cis 308 fall 17\lab10\lab10\lab10.cpp(14): warning C4101: 'i': unreferenced local variable
+  c:\users\dweathers\source\workspaces\cis 308 fall 17\lab10\lab10\lab10.cpp(13): note: while compiling class template member function 'void Sample<int>::printArr(void)'
+  c:\users\dweathers\source\workspaces\cis 308 fall 17\lab10\lab10\lab10.cpp(34): note: see reference to function template instantiation 'void Sample<int>::printArr(void)' being compiled
+  c:\users\dweathers\source\workspaces\cis 308 fall 17\lab10\lab10\lab10.cpp(21): note: see reference to class template instantiation 'Sample<int>' being compiled
+  Lab10.vcxproj -> C:\Users\dweathers\Source\Workspaces\CIS 308 Fall 17\Lab10\Debug\Lab10.exe
+  Lab10.vcxproj -> C:\Users\dweathers\Source\Workspaces\CIS 308 Fall 17\Lab10\Debug\Lab10.pdb (Partial PDB)
